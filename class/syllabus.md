@@ -1,5 +1,7 @@
 # My class
 
+Will be ~un~fun
+
 ## Goals 
   - learn to **read** books
   - learn to [*write* stuff](https://github.com/mbrown1211/test/blob/master/class/syllabus.md#thesis)
