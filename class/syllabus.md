@@ -1,6 +1,8 @@
-# My class
+---
+title: Syllabus
+---
 
-Will be ~un~fun
+#This class will be ~un~fun
 
 ## Goals 
   - learn to **read** books
