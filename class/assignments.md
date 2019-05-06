@@ -1,4 +1,9 @@
+---
+title: Assignments
+---
+
 Refer to the [syllabus](https://github.com/mbrown1211/test/blob/master/class/syllabus.md)
+
 ***
 
 ## Paper 1
@@ -18,6 +23,7 @@ Refer to the [syllabus](https://github.com/mbrown1211/test/blob/master/class/syl
    - A fictional guide
    - A mythical creature
    - Big [words](https://www.thesaurus.com)
+
 ---
 
 I'm _making_ a block quote
