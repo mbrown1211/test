@@ -1,3 +1,8 @@
 remote_theme: minicomp/ed 
 
 theme: jekyll-theme-minimal
+
+# Color scheme. Options: red, orange, magenta, cyan, blue, brown
+color-scheme: blue
+
+
