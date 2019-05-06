@@ -2,7 +2,7 @@
 title: Assignments
 ---
 
-Refer to the [syllabus](https://github.com/mbrown1211/test/blob/master/class/syllabus.md)
+Refer to the [syllabus](https://mbrown1211.github.io/test/class/syllabus.html)
 
 ***
 
