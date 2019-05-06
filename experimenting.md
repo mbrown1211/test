@@ -19,8 +19,11 @@
 ## Another sub-heading
 
 *testing*
+
 ***bold and italics***
+
 **bold**
+
 *italics*
 
-You can read [the paper] (https://www.nytimes.com).
+You can read [the paper](https://www.nytimes.com).
