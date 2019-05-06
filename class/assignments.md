@@ -19,3 +19,15 @@ Refer to the [syllabus](https://github.com/mbrown1211/test/blob/master/class/syl
    - A fictional guide
    - A mythical creature
    - Big [words](https://www.thesaurus.com)
+
+I'm making a block quote
+> To be or not to be
+> That is the question
+
+And then it's done.
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
