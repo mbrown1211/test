@@ -4,7 +4,7 @@
 
   ### Goals for Fall
   - learn to **read** books
-  - learn to **write* stuff
+  - learn to *write* stuff
 
   ### Assignments for Fall
   - read [the New York Times](https://www.nytimes.com)
