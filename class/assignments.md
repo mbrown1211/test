@@ -24,10 +24,10 @@ I'm making a block quote
 > To be or not to be
 > That is the question
 
-And then it's done.
+Grading
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Assignment    | Due date      | Percentage  |
+| ------------- |:-------------:| -----------:|
+| Paper 1       | Yesterday     | 5%          |
+| Musem visit   | Today         |   5%        |
+| Paper 2       | Tomorrow      |    90%      |
