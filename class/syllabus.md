@@ -8,7 +8,7 @@ Will be ~un~fun
 
 ## Fall semester
 
-  ### Assignments for Fall
+### Assignments for Fall
   - read [the New York Times](https://www.nytimes.com)
   - visit your favorite ***book store***
   - go shopping
@@ -19,7 +19,7 @@ Will be ~un~fun
 
 ## Spring semester
 
-  ### Thesis
+### Thesis
 
   ***Components***
   - Historiography
