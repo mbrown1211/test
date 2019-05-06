@@ -1,10 +1,10 @@
 # My class
 
-## Fall semester
-
-  ### Goals for Fall
+## Goals 
   - learn to **read** books
   - learn to *write* stuff
+
+## Fall semester
 
   ### Assignments for Fall
   - read [the New York Times](https://www.nytimes.com)
