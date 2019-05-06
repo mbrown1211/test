@@ -1,7 +1,7 @@
 # Welcome to my code testing
 
-- [Syllabus](https://github.com/mbrown1211/test/class/syllabus.md)
-- [Assignments](https://github.com/mbrown1211/test/class/assignments.md)
+- [Syllabus](https://mbrown1211.github.io/test/class/syllabus.html)
+- [Assignments](https://mbrown1211.github.io/test/class/assignments.html)
 
 
 
