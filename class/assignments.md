@@ -1,6 +1,7 @@
 # Assignments
 
 Refer to the [syllabus](https://github.com/mbrown1211/test/blob/master/class/syllabus.md)
+***
 
 ## Paper 1
 - Choose one of the following topics
@@ -19,10 +20,12 @@ Refer to the [syllabus](https://github.com/mbrown1211/test/blob/master/class/syl
    - A fictional guide
    - A mythical creature
    - Big [words](https://www.thesaurus.com)
+---
 
-I'm making a block quote
+I'm _making_ a block quote
 > To be or not to be
 > That is the question
+---
 
 Grading
 
