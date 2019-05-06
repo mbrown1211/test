@@ -1,5 +1,3 @@
-# Assignments
-
 Refer to the [syllabus](https://github.com/mbrown1211/test/blob/master/class/syllabus.md)
 ***
 
