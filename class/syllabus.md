@@ -2,7 +2,7 @@
 
 ## Goals 
   - learn to **read** books
-  - learn to *write* stuff
+  - learn to [*write* stuff](https://github.com/mbrown1211/test/blob/master/class/syllabus.md#thesis)
 
 ## Fall semester
 
